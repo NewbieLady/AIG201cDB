@@ -1,0 +1,14 @@
+A multidisciplinary field that investigates how to maximize AI’s beneficial impacts while reducing risks and adverse impacts
+An AI system’s ability to show how and why it arrived at a particular outcome or recommendation 
+An AI system’s ability to treat individuals or groups equitably
+An AI system’s ability to effectively handle exceptional conditions, like abnormal input or adversarial attacks
+Gives systematic disadvantages to certain groups or individuals 
+Implicit or explicit human bias
+A government rule enforceable by law
+An organization’s act of governing through its corporate instructions, staff, processes, and systems
+AI is transforming our lives as well as the structure and equilibrium of our society
+How to use AI responsibly
+What is a first step toward mitigating bias in AI?|Developing different rules for different risks
+When should developers, data scientists, and other people who work with AI consider ethics?|Throughout the AI lifecycle
+What are the pillars of AI ethics?|Explainability, fairness, robustness, transparency, privacy
+How does AI governance deliver trustworthy AI?|By establishing requirements for accountability, responsibility, and oversight

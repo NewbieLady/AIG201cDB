@@ -1,0 +1,5 @@
+True
+True
+Node B is overshadowed and will not be executed (unless we explictily jump to it).
+True
+When designing a chatbot, we should consider tone and personality.

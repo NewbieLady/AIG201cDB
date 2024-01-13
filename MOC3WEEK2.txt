@@ -1,0 +1,5 @@
+The model will ask for your preferences and adjust the itinerary accordingly
+Domain expertise
+Bias mitigation 
+A prompt consists of a question and a correct answer for context.
+

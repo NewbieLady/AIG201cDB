@@ -1,0 +1,7 @@
+GitHub Copilot
+Help her create comprehensive artwork from a simple sketch
+IBM Watson Code Assistant
+Watson AIOps
+Track learner progress
+Generate a complex code from scratch
+Inpainting

@@ -1,0 +1,4 @@
+ChatGPT will suggest the title, content, and visuals for slides.
+GitHub Copilot
+Style transfer
+StyleGAN

@@ -1,0 +1,10 @@
+Cognitive systems can learn from their successes and failures
+Deep Learning is a specialized subset of Machine Learning that uses layered neural networks to simulate human decision-making
+Takes data and rules as input and uses these inputs to develop an algorithm that will give us an answer
+Takes data and rules as input and uses these inputs to develop an algorithm that will give us an answer
+Relies on providing the machine learning algorithm human-labeled data - the more samples you provide, the more precise the algorithm becomes in classifying new data
+Training data is used to fine-tune algorithm’s parameters and evaluate how good the model is
+True
+Computer Vision
+Deconstruct sentences to decipher the context of use
+Proactive Learning

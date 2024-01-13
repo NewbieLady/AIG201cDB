@@ -1,0 +1,5 @@
+False
+An intent is a purpose or goal expressed by the user's input
+True
+True
+True

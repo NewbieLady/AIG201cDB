@@ -1,0 +1,15 @@
+True
+True
+True
+True
+False
+#buy_product
+@sys-date
+False
+True
+True
+Welcome will contain the chatbot prompt and be executed at the beginning of the conversation. 
+True
+True
+input.text
+Have a node enabled with multiple slots, each asking for the relevant information. System entities should be enabled. 

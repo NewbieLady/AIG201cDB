@@ -1,0 +1,4 @@
+Draw an image of a zebra-striped cat with a purple hat.
+Ability to create virtual worlds
+Virtual avatars
+Text prompts
