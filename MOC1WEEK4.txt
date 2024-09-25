@@ -1,3 +1,10 @@
-hello
-love you
-goodbye
+Involves training algorithms with large amounts of data to identify patterns and make predictions.
+By using historical purchase data and browsing behavior.
+NLP engineers create AI systems that process human language.
+Transparency and accountability
+Validate and fact-check the AI-generated content before publishing.
+Clarifying intellectual property rights
+Perception, learning, and reasoning
+It improves the model's ability to learn and recognize patterns from the data.
+The use of convolutional layers to learn spatial hierarchies
+By increasing efficiency, reducing downtime, and improving product quality
