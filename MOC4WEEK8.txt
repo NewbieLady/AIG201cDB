@@ -1,15 +1,15 @@
-True
-True
-True
-True
-False
-#buy_product
-@sys-date
-False
-True
-True
-Welcome will contain the chatbot prompt and be executed at the beginning of the conversation. 
-True
-True
-input.text
-Have a node enabled with multiple slots, each asking for the relevant information. System entities should be enabled. 
+Text and audio are two common ways through which chatbots interact with the user.|True
+To be called a chatbot, a bot needs to converse with the user.|True
+Chatbots can help cut down the number of inquiries a business' customer care team needs to manually address.|True
+Watson Assistant is a chatbot building service hosted on IBM Cloud.|True
+Chatbots can only be deployed on WordPress sites.|False
+Which of these is a valid intent?|#buy_product
+Which one of the following is a valid system entity?|@sys-date
+The value of an entity detected in the user input is automatically available for the entire duration of the conversation with the user.|False
+We can use context variables to store (and later access) information collected from the user.|True
+Slots allow us to collect information from the user and store it in context variables.|True
+A dialog has the following nodes: Welcome (welcome condition) Greetings (#greetings intent condition) Thank you (#thank_you intent condition) Goodbyes (#goodbyes intent condition) Anything else (anything_else condition). Which one of the following statements is applicable?|Anything else node will be executed at any time within the conversation.
+The evaluation of peer nodes proceeds top to bottom until a node with a matching condition is found. Child nodes are only considered for execution after their parent's condition is met (or if a jump is involved.)|True
+Digressions allow users to divert the conversation away from a slot while it's asking its question.|True
+Which of the following contains the entire user input?|input.text
+A restaurant chatbot needs to collect the following information from the user: reservation name, party size, date, and time in order to book a reservation. Which of the following approaches works best?|Have a node enabled with multiple slots, each asking for the relevant information. System entities should be enabled.
